@@ -1,0 +1,44 @@
+
+
+#header { 
+    color: whitesmoke; 
+    font-family: verdana, ariel, verdana, georgia, tahoma;
+    font-weight: bold;
+    border-color: black;
+    border-width: 3px;
+    padding: 20px;
+    background-color: grey;
+    text-align: center
+
+  }
+#nav {
+    font-family: verdana;
+    color: whitesmoke; 
+    padding : 20px; 
+    border-color: black; 
+    border-width: 3px;
+    background-color: black;
+    width: 200px;
+
+    
+    
+  }  
+#main {
+    padding: 20px;
+    border-color: black; 
+    border-width: 3px;
+  }
+footer {
+    color: black;
+    padding: 20px;
+  }  
+#image{
+  clip-path: circle();
+}
+body{
+  border-style: solid;
+
+}
+h2 {
+  color: darkgreen;
+}
